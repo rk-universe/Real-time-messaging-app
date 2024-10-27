@@ -1,6 +1,6 @@
-# WhatsApp Messenger Clone Android Application
+# Real time messaging Android Application
 
-This Android application is a clone of the WhatsApp messenger app. Users can chat with friends, update their profile, and set status messages.
+This Android application is for real time message. Users can chat with friends, update their profile, and set status messages.
 
 ## Demo
 
